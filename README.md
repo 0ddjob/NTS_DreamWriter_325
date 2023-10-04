@@ -1,5 +1,5 @@
 # NTS_DreamWriter_325
-The NTS DreamWriter 325 (from Canadian company NTS) is based on the Amstrad NC100 - superficially (apart from colours) they look identical. <br>
+The NTS DreamWriter 325 (from Canadian company NTS Computer Systems) is based on the Amstrad NC100 - superficially (apart from colours) they look identical. <br>
 
 Most of the hardware is the same (i.e. same LCD panel, keyboard, etc.) but the major difference is their CPU.<br>
 
