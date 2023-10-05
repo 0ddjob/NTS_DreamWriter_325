@@ -10,4 +10,4 @@ Earlier ROM version that has a typing tutor but no BASIC implementation.<br>
 Upgraded ROM that includes BASIC.<br>
 - Diagnostic 1.04 (930402)  by NER
 
-![Vers. 2.0](NTS_325_2.0_picture.jpg)
+![Vers. 2.0](NTS_325_2.00_picture.jpg)
